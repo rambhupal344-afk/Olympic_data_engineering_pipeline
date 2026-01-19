@@ -15,5 +15,5 @@ This project demonstrates an end-to-end Azure data engineering pipeline for anal
 ## Dataset Used
 The  dataset includes athletes data with columns athlete_id, name, country, discipline, events data with event_id, event_name, sport, event_date, and medals data with country, gold, silver, bronze, and total.
 ##  Transformations & Scripting 
-1. [Data_Transormations](Transformation.ipynb)
+1. [ETL script](Transformation.ipynb)
 2. [Sql_quires](Sql_query.sql)
